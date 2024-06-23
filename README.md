@@ -1,5 +1,8 @@
 # highlandschoolsbudget
 
+Link to project:<br />
+https://github.com/mrcrookes/highlandschoolsbudget/
+
 Draft code to disentangle Freedom of Information response from::<br />
 https://www.whatdotheyknow.com/request/mallaig_schools_cluster_budget_f
 
