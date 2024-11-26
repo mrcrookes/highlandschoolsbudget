@@ -12,3 +12,6 @@ https://www.whatdotheyknow.com/request/highland_secondary_schools_budge
 Spreadsheets of output data:<br />
 https://docs.google.com/spreadsheets/d/1j2jo9r5kKvBXGdtuSN32N0GqfCkbWHmguV4vXDCjjkY/edit?gid=1528042455#gid=1528042455<br />
 https://docs.google.com/spreadsheets/d/17clDyHb_7rzLKpUpiiFX34pWYSOHxjRrjz8OH3RM3gI/edit?gid=2141549322#gid=2141549322
+
+School level summary statistics:<br />
+https://www.gov.scot/publications/school-level-summary-statistics/
